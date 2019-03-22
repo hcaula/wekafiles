@@ -1,0 +1,9 @@
+#SimpleCLI
+#Thu Mar 21 11:49:20 BRT 2019
+Command2=ls
+Command1=java weka.Run WekaServer -host localhost -port 8085 -slots 4
+Command0=java -Djava.awt.headless\=true weka.Run WekaServer -host hostname -port port
+Command5=hostname
+Command4=./
+HistorySize=50
+Command3=cd 

@@ -1,0 +1,7 @@
+2019-03-22 11:16:55 weka.server.WekaServer startJettyServer
+INFO: Logging started
+2019-03-22 11:16:55.308::INFO:  Logging to STDERR via org.mortbay.log.StdErrLog
+2019-03-22 11:16:55.334::INFO:  jetty-6.1.21
+2019-03-22 11:16:55.417::INFO:  Started SocketConnector@localhost:8085
+[WekaServer] Starting purge thread.
+[WekaServer] Starting schedule checker.
